@@ -31,3 +31,5 @@ if check_anagram(first_string, second_string):
     print(f"Yes, {first_string} and {second_string} are anagram of each other")
 else:
     print(f"No, {first_string} and {second_string} are not anagram of each other")
+
+
