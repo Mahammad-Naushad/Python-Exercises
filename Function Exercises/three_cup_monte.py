@@ -2,7 +2,8 @@
 This program is written for three cup monte game.
 You will have three cups and a ball inside one cup. User has to guess which cup has the ball inside it
 """
-from random import  shuffle
+from random import \
+    shuffle
 
 
 def shuffle_list(my_list):
